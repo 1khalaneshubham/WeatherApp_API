@@ -16,8 +16,11 @@ Welcome to the Weather App repository! This simple application allows users to r
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
+![Screenshot 1](Screenshots/IMG_20240402_093344.jpg)
+![Screenshot 2](Screenshots/IMG_20240402_093359.jpg)
+![Screenshot 3](Screenshots/IMG_20240402_093421.jpg)
+![Screenshot 4](Screenshots/IMG_20240402_093436.jpg)
+
 
 ## Installation
 
